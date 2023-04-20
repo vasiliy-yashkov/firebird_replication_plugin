@@ -1,0 +1,14 @@
+{
+    "cmake.configureOnOpen": true,
+    "cmake.configureEnvironment": {
+        "FB_HOME": "opt/firebird/"
+    },
+    "java.configuration.updateBuildConfiguration": "disabled",
+    "files.associations": {
+        "*.tcc": "cpp",
+        "unordered_map": "cpp",
+        "numeric": "cpp",
+        "ostream": "cpp",
+        "cmath": "cpp"
+    }
+}
